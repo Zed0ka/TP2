@@ -1,0 +1,29 @@
+h1 {
+    color : red ;
+    font-size: 22 px;
+}
+h2 {
+    color : blue ;
+    font-size : 16 px;
+}
+p {
+    background-color: gray;
+}
+#paragraphe3 {
+    background-color: pink;
+}
+strong {
+    font-style: normal ;
+    color: yellowgreen ;
+}
+em {
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 14 px;
+    color : orange
+}
+#titreArticle2 {
+    color: green ;
+    text-align: right ;
+    text-decoration: underline;
+}
